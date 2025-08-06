@@ -1,6 +1,8 @@
 # Implementing Transformer from Scratch: Your AI Helpdesk Assistant
 
-This project builds a GPT-style Transformer model from scratch using PyTorch and trains it on realistic IT support queries (e.g., password resets, VPN access). It features a clean Streamlit UI for demo.
+This project is a hands-on implementation of a GPT-style Transformer, built entirely from scratch using PyTorch. Drawing inspiration from the foundational paper “Attention is All You Need,” I reimplemented core transformer components—like multi-head self-attention, positional encoding, and residual connections—and adapted them to suit a real-world enterprise use case: IT support automation.
+
+The model was trained on simulated helpdesk conversations to reflect actual workplace interactions. An assistant that can respond to queries like "My Teams isn’t loading" or "How do I reset my password?" with context-aware replies. What makes this special is that every component—from self-attention and positional encoding to training loops and text generation—was written manually, giving me a deep understanding of how large language models really work. The project also includes a simple Streamlit interface so anyone can test it out with natural queries, just like chatting with an internal IT bot.
 
 # Features
 
