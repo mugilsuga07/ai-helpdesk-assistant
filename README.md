@@ -21,7 +21,7 @@ This project builds a GPT-style Transformer model from scratch using PyTorch and
 # Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/transformer-from-scratch.git
+git clone https://github.com/mugilsuga07/transformer-from-scratch.git
 cd transformer-from-scratch
 python3.10 -m venv venv
 source venv/bin/activate
