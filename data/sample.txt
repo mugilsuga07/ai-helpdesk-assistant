@@ -1,0 +1,116 @@
+Customer: I can't log in to my email.
+Agent: Please try resetting your password using the 'Forgot Password' link.
+
+Customer: How do I connect to the company VPN?
+Agent: Download the VPN client from the company portal and sign in using your credentials.
+
+Customer: Teams is crashing when I open it.
+Agent: Try reinstalling Teams or check for system updates.
+
+Customer: I need access to the finance dashboard.
+Agent: Please raise an access request through the ITSM portal.
+
+Customer: My system is running very slow.
+Agent: Try closing background apps or restarting. If the issue persists, log a performance ticket.
+
+Customer: Where can I download Zoom?
+Agent: Visit the Company Portal, search for Zoom, and click Install.
+
+Customer: I accidentally deleted an important file.
+Agent: Check the Recycle Bin. If it’s not there, contact backup support.
+
+Customer: My monitor isn't displaying anything.
+Agent: Check the cable connections and try a different port or monitor.
+
+Customer: Printer is not responding.
+Agent: Ensure the printer is online and properly connected. Restart the printer and try again.
+
+Customer: I can't join the company Wi-Fi.
+Agent: Try forgetting the network and reconnecting. If it fails, contact Network Support.
+
+Customer: How can I access the HR portal?
+Agent: Go to hr.company.com and log in with your employee credentials.
+
+Customer: My password reset email never arrived.
+Agent: Please check your spam folder or contact IT to manually reset your account.
+
+Customer: Outlook keeps asking for my password.
+Agent: Try clearing stored credentials and restart Outlook.
+
+Customer: My keyboard isn't working.
+Agent: Check for driver updates or plug into a different USB port.
+
+Customer: How do I request a new laptop?
+Agent: Open an asset request through the IT support portal.
+
+Customer: I’m locked out of my account.
+Agent: Contact IT support to verify your identity and unlock your account.
+
+Customer: My webcam isn't detected in meetings.
+Agent: Try reconnecting it or updating the camera drivers in Device Manager.
+
+Customer: How do I install Adobe Acrobat?
+Agent: Adobe is available in the Company Portal. Search for it and click Install.
+
+Customer: My VPN keeps disconnecting.
+Agent: Check your internet stability and ensure your firewall isn't blocking the connection.
+
+Customer: I need help setting up a printer.
+Agent: Open the printer wizard, choose your network printer, and follow the setup steps.
+
+Customer: My Wi-Fi says connected but no internet.
+Agent: Restart your router or switch to a wired connection if possible.
+
+Customer: I received a phishing email.
+Agent: Please forward it to the security team and delete it from your inbox.
+
+Customer: How do I submit a leave request?
+Agent: Go to the HR portal and select 'Time Off' from the menu.
+
+Customer: I can't access Jira.
+Agent: Make sure you're on the VPN and try logging in through SSO.
+
+Customer: My Excel is not responding.
+Agent: Open Excel in Safe Mode or try repairing the Office installation.
+
+Customer: Where can I find company policies?
+Agent: Visit the intranet portal and search for 'HR Policies' section.
+
+Customer: I need VPN access for a contractor.
+Agent: Please submit a VPN access request with manager approval.
+
+Customer: My password was compromised.
+Agent: Immediately change your password and contact the security team.
+
+Customer: How do I escalate a ticket?
+Agent: Open the ticket and click 'Escalate' or contact support manager.
+
+Customer: My laptop fan is very noisy.
+Agent: Check for software updates and try cleaning the vents or contact hardware support.
+
+Customer: I need access to Salesforce.
+Agent: Raise an access request through the CRM access form on the IT portal.
+
+Customer: My timesheet is not saving.
+Agent: Clear browser cache and try again. If it persists, contact HR systems support.
+
+Customer: I need my mailbox quota increased.
+Agent: Raise a quota increase request through Exchange admin team.
+
+Customer: Where can I change my emergency contact info?
+Agent: Log in to the HR portal and update your personal details.
+
+Customer: I’m getting a blue screen error.
+Agent: Share the error code with IT and restart your system in Safe Mode.
+
+Customer: I need to onboard a new employee.
+Agent: Submit the onboarding request in the HRMS with their role and department.
+
+Customer: My camera is mirrored on video calls.
+Agent: Check the settings in Teams or Zoom and disable mirroring.
+
+Customer: I can’t download attachments in Outlook.
+Agent: Try opening Outlook in safe mode or clearing the attachment cache.
+
+
+
